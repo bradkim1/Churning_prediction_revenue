@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<<
 1. `prediction_revenue.ipynb`:
 - Main functionality: Basic Churn Prediction
 - Features:
